@@ -1,2 +1,1 @@
-# king
-ff free diamond
+var myMarks();
